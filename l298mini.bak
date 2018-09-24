@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# l298mini
+#
+DEF l298mini U 0 40 Y Y 1 F N
+F0 "U" -300 150 60 H V C CNN
+F1 "l298mini" 0 200 60 H V C CNN
+F2 "" -50 100 60 H I C CNN
+F3 "" -50 100 60 H I C CNN
+DRAW
+S -100 50 150 -50 0 1 0 N
+X In1 1 100 100 47 D 20 20 1 1 I
+X In2 2 50 100 47 D 20 20 1 1 I
+X In3 3 0 100 47 D 20 20 1 1 I
+X In4 4 -50 100 47 D 20 20 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
