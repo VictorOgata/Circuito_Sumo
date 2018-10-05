@@ -1,0 +1,139 @@
+Cmp-Mod V01 Created by PcbNew   date = 10/4/2018 5:26:45 PM
+
+BeginCmp
+TimeStamp = 5BAB989F
+Path = /5B991F46
+Reference = U2;
+ValeurCmp = lm393;
+IdModule  = lm393:lm393;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB9842
+Path = /5B996255
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB9848
+Path = /5B995E4B
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB984E
+Path = /5B996430
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB9854
+Path = /5B996511
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB985A
+Path = /5B9965B6
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB9860
+Path = /5B996349
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB9866
+Path = /5B9962DA
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB986C
+Path = /5B9961F0
+Reference = R8;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB9898
+Path = /5AD50E29
+Reference = U1;
+ValeurCmp = STM32F103C8T6;
+IdModule  = stm32:stm32;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB98B7
+Path = /5BA87F7B
+Reference = U5;
+ValeurCmp = l298mini;
+IdModule  = l298nmini:l298nmini;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB98BE
+Path = /5B992085
+Reference = U6;
+ValeurCmp = lm393;
+IdModule  = lm393:lm393;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BAB98C5
+Path = /5B991CEC
+Reference = U7;
+ValeurCmp = lm393;
+IdModule  = lm393:lm393;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB678E4
+Path = /5B993E68
+Reference = U3;
+ValeurCmp = tcrt5000;
+IdModule  = tcrt5000:tcrt5000;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB678F2
+Path = /5B991AB0
+Reference = U4;
+ValeurCmp = tcrt5000;
+IdModule  = tcrt5000:tcrt5000;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB67900
+Path = /5B993F0D
+Reference = U8;
+ValeurCmp = tcrt5000;
+IdModule  = tcrt5000:tcrt5000;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB6790E
+Path = /5B993DFF
+Reference = U9;
+ValeurCmp = tcrt5000;
+IdModule  = tcrt5000:tcrt5000;
+EndCmp
+
+EndListe
